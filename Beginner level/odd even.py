@@ -1,9 +1,5 @@
 a=int(raw_input())
-print a
-if (a>=1 and a<=100000):
-	if(a%2==1):
-		print('Odd')
-	else:
-		print('Even')
+if(a%2==1):
+	print('Odd')
 else:
-	print('invalid input')
+	print('Even')
