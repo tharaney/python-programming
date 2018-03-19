@@ -3,4 +3,4 @@ print a
 if (a%4==0):
 	print('LEAP YEAR')
 else:
- print('NO')
+	print('NO')
